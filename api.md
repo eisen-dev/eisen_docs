@@ -70,6 +70,14 @@ target host 1 resource:
 The documentation provides an example response for each API method. The example
 response illustrates all attributes that are returned by that method.
 
+## Root Endpoint
+
+You can issue a `GET` request to the root endpoint to get all the endpoint categories that the API supports:
+
+``` command-line
+$ curl https://localhost/eisen/
+```
+
 ## Client Errors
 
 There are three possible types of client errors on API calls that
