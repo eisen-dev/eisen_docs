@@ -1,4 +1,4 @@
-This is the Eisen documentation directory.
+This is the Eisen (front and engine) documentation directory.
 
 Index:  
     - [Installation](installation.md)  
