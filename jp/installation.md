@@ -19,8 +19,8 @@ eisen_frontディレクトリに移動し、以下の操作を実行してくだ
 初回のみvagrantfileを元にeisen_frontを仮想マシン上に自動でセットアップします。
 終了後仮想マシンが利用できます。  
 
-## eisen_agentのセットアップ
-eisen_agentディレクトリに移動し、以下の操作を実行してください。  
+## eisen_engineのセットアップ
+eisen_engineディレクトリに移動し、以下の操作を実行してください。  
 1. eisen_frontの実行に必要なUbuntu12.04 64bitのboxファイルを追加する  
 `vagrant box add precise64 http://files.vagrantup.com/precise64.box`   
 2. 仮想マシンの起動  
@@ -49,7 +49,7 @@ SSH username: vagrant
 SSH password: vagrant  
 SSH auth method: private key  
 
-* eisen_agent
+* eisen_engine
 SSH address: 127.0.0.1:2200  
 SSH username: vagrant  
 SSH password: vagrant  
