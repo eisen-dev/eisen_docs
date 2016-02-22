@@ -12,5 +12,7 @@ how to contribute:
     - please be free to open a issue on github.  
     - for contribute code or documentation just make a pull request on github.  
   
-If there will be any translation it will be under language folders,
-like jp/ it/
+Translation document is under the language folders,  
+like  
+jp/  
+it/  
