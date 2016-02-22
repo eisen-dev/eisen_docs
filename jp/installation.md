@@ -49,7 +49,7 @@ SSH username: vagrant
 SSH password: vagrant  
 SSH auth method: private key  
 
-* eisen_engine
+* eisen_engine  
 SSH address: 127.0.0.1:2200  
 SSH username: vagrant  
 SSH password: vagrant  
