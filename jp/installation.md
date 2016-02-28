@@ -56,7 +56,8 @@ SSH password: vagrant
 SSH auth method: private key  
 
 ## eisenの初期設定
-http://localhost:8080/init-setup1.phpへ移動し、初期設定を行ってください。
+http://localhost:8080/init-setup1.phpへ移動し、初期設定を行ってください。  
+![init-setup1](/images/screenshot-localhost.8080.2016-02-29.03-05-50.png)  
 * 接続設定  
 データベース設定  
 IPアドレス： localhost  
@@ -65,4 +66,5 @@ IPアドレス： localhost
 データベース名：eisen  
 ・ユーザー設定  
 お好きなユーザーを作成してください  
+
 
