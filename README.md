@@ -1,5 +1,8 @@
-issue are:  
+# Eisen Documentation  
+####issue are:  
 [![ZenHub] (https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png)] (https://zenhub.io)  
+####Got question?  
+[![Slack Status](https://eisen.herokuapp.com/badge.svg)](https://eisen.herokuapp.com/)  
   
 This is the Eisen (front and engine) documentation directory.
 
