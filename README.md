@@ -1,5 +1,5 @@
-issue are:  
-[![ZenHub] (https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png)] (https://zenhub.io)  
+####issue are: [![ZenHub] (https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png)] (https://zenhub.io)  
+####Got question? [![Gitter](https://badges.gitter.im/eisen-dev/eisen_docs.svg)](https://gitter.im/eisen-dev/eisen_docs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)  
   
 This is the Eisen (front and engine) documentation directory.
 
