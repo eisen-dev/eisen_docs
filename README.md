@@ -1,6 +1,6 @@
 ####issue are: [![ZenHub] (https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png)] (https://zenhub.io)  
-####Got question? [![Gitter](https://badges.gitter.im/eisen-dev/eisen_docs.svg)](https://gitter.im/eisen-dev/eisen_docs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)  
-  
+####Got question? [![Slack Status](https://eisen.herokuapp.com/badge.svg)](https://eisen.herokuapp.com)  
+    
 This is the Eisen (front and engine) documentation directory.
 
 Index:  
