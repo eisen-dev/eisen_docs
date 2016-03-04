@@ -10,6 +10,13 @@ https://www.vagrantup.com/
 上記リンクからvagrant WINDOWS Universal (32 and 64-bit)をダウンロード、インストールしてください。  
 また、以下に説明するvagrantコマンドの操作はWindowsのコマンドプロンプトで実行できます。
 
+##ソースのクローン
+eisen frontのソースを任意のディレクトリに展開します。
+* eisen frontend  
+`git clone https://github.com/eisen-dev/eisen_front.git`
+* eisen engine  
+`git clone https://github.com/eisen-dev/eisen_engine.git`
+
 ## eisen_frontのセットアップ
 eisen_frontディレクトリに移動し、以下の操作を実行してください。  
 1. eisen_frontの実行に必要なUbuntu12.04 64bitのboxファイルを追加する  
