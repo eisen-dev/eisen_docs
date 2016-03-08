@@ -1,9 +1,15 @@
-# eisen and vagrant setup(Windows)
-
-* Install Oracle VM Virtualbox  
-* Install Vagrant
-
-for both eisen front and eisen agent:
+# eisen and vagrant setup(Windows)  
+  
+* Install [Oracle VM Virtualbox](https://www.virtualbox.org)  
+* Install [Vagrant](https://www.vagrantup.com/)  
+  
+## clone source code  
+* eisen frontend  
+`git clone https://github.com/eisen-dev/eisen_front.git`
+* eisen engine  
+`git clone https://github.com/eisen-dev/eisen_engine.git`
+  
+for both eisen front and eisen agent (after moving to the respective directory):  
 ```
    vagrant box add precise64 http://files.vagrantup.com/precise64.box
    vagrant up
