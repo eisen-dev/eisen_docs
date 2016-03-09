@@ -2,7 +2,7 @@
   <img src="images/eisen-readme-header.png" alt="Eisen">
 </p>
 ####issue are: [![ZenHub] (https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png)] (https://zenhub.io)  
-####Got question? [![Slack Status](https://eisen.herokuapp.com/badge.svg)](https://eisen.herokuapp.com)  
+####Got question? [![Slack Status](https://eisen.herokuapp.com/badge.svg)](https://eisen.herokuapp.com) [![Freenode](https://img.shields.io/badge/freenode-%23eisen-5654a4.svg)](http://webchat.freenode.net/?channels=eisen)  
     
 This is the Eisen (front and engine) documentation directory.
 
