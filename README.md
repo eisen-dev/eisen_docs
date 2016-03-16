@@ -19,7 +19,7 @@ Index:
 
 ### How to contribute:  
   - please be free to [open a issue](https://github.com/eisen-dev/eisen_docs/issues/new).  
-  - for contribute code or documentation just make a pull request on github.  
+  - for contribute code or documentation just make a [pull request on github](https://github.com/eisen-dev/eisen_docs/blob/master/README.md#pull-request-method).  
 
 #### Pull request method:
   1. Fork it   
