@@ -6,18 +6,22 @@
     
 This is the Eisen (front and engine) documentation directory.
 
+#### User Documentation  
+
+#### Developer Documentation  
 Index:  
-    - [Installation](installation.md)  
-    - [structure and terminology](structure.md)  
-    - [Restful api documentation](api.md)  
+  - [Installation](installation.md)  
+  - [structure and terminology](structure.md)  
+  - [Restful api documentation](api.md)  
 
 日本語化：  
-    - [インストール](/jp/installation.md) 
+  - [インストール](/jp/installation.md) 
 
-how to contribute:  
-    - please be free to open a issue on github.  
-    - for contribute code or documentation just make a pull request on github.
+### How to contribute:  
+  - please be free to [open a issue on github](https://github.com/eisen-dev/eisen_docs/issues/new).  
+  - for contribute code or documentation just make a pull request on github.  
 
+#### Pull request method:
   1. Fork it   
       ( http://github.com/eisen-dev/eisen_docs )  
       ( http://github.com/eisen-dev/eisen_front )  
@@ -27,7 +31,6 @@ how to contribute:
   4. Push to the branch (git push origin my-new-feature)
   5. Create new Pull Request
   
-Translation document is under the language folders,  
-like  
-jp/  
-it/  
+### Translation 
+Documentation is also under other language folders:  
+[jp/](https://github.com/eisen-dev/eisen_docs/tree/master/jp)    
