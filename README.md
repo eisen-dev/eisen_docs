@@ -18,7 +18,7 @@ Index:
   - [インストール](/jp/installation.md) 
 
 ### How to contribute:  
-  - please be free to [open a issue on github](https://github.com/eisen-dev/eisen_docs/issues/new).  
+  - please be free to [open a issue](https://github.com/eisen-dev/eisen_docs/issues/new).  
   - for contribute code or documentation just make a pull request on github.  
 
 #### Pull request method:
